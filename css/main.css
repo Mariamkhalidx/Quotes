@@ -1,0 +1,18 @@
+h1{
+    font-size: 80px;
+    font-family: Impact;
+}
+
+.btn-color{
+    background-color: blue;
+}
+.btn-color:hover{
+    background-color: green;
+}
+.btn-color{
+    --bs-btn-border-radius: 0 rem;
+    color: white;
+}
+.quote{
+    font-size: 30px;
+}
